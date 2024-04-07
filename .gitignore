@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+
+# Output of `npm pack`
+*.tgz
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swm
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
